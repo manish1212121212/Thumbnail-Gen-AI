@@ -1,0 +1,7 @@
+{
+  "name": "Thumbnail Gen-AI",
+  "description": "High CTR YouTube Thumbnail generator and editor powered by Gemini 2.5 Flash Image. Create, edit, and refine viral visuals with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
